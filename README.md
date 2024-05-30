@@ -1,0 +1,1 @@
+Social Network Analysis Using Python and NetworkX. also Using pyvis for Better Visualization. The dataset this program use is from kaggle : Covid-19 Tweet by gpreda https://www.kaggle.com/datasets/gpreda/covid19-tweets
